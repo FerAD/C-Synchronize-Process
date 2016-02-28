@@ -1,0 +1,11 @@
+t4_1
+compila gcc -o t4_1 t4_1.c
+ejecuta t4_1 numConsumidores numProductores tamañodeBuffer
+SALIDA:
+Nos va mostrando el buffer con los datos producidos y los datos consumidos
+
+t4_2
+compila gcc -o t4_2 t4_2.c
+ejecuta t4_2
+SALIDA:
+Nos muestra los datos que se van consumiendo y al final muestra el buffer vacio
